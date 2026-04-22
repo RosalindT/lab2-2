@@ -1,4 +1,5 @@
 **SQL-T**
 
-**Group Members\n**
-Smaya Guido, slguido@calpoly.edu
+**Group Members**
+Smaya Guido, slguido@gmail.com
+Rosalind Thies, thies@calpoly.edu
