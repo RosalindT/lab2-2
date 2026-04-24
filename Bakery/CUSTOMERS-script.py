@@ -8,7 +8,10 @@ cursor = db.cursor()
 cursor.execute("CREATE DATABASE IF NOT EXISTS Bakery")
 
 # Create the table
-cursor.execute("CREATE TABLE IF NOT EXISTS CUSTOMERS (Id INT PRIMARY KEY, LastName VARCHAR(50), FirstName VARCHAR(50))")
+cursor.execute("CREATE TABLE IF NOT EXISTS CUSTOMERS (" \
+    "Id INT PRIMARY KEY," \
+    "LastName VARCHAR(50)," \
+    "FirstName VARCHAR(50))")
 
 # Insert data by reading CSV
 with open("CUSTOMERS.csv", "r") as file:
