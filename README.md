@@ -3,3 +3,5 @@
 <p>Smaya Guido, slguido@calpoly.edu</p>
 <p>Rosalind Thies, thies@calpoly.edu</p>
 <p>Eman Castillo, ecasti36@calpoly.edu</p>
+
+<h2>Read Me Info</h2>
